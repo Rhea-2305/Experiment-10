@@ -58,3 +58,7 @@ Visual Studio Code
 In the call-by-reference mechanism, instead of passing a copy of the arguments, the function receives references (or pointers) to the original variables. Any changes made to the parameters inside the function will directly affect the original variables. This method is more efficient for large data structures and allows functions to modify the caller's variables, but it requires caution to avoid unintended side effects.
 
 ## Output
+![image](https://github.com/user-attachments/assets/0924efef-3820-4566-9b2a-120a3d1e7d8d)
+
+## Conclusion
+We learned about the call-by-reference in C++.
